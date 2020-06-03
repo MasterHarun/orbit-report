@@ -30,3 +30,7 @@ th, td {
 .show-warning {
     background-color: red;
 }
+
+tr:nth-child(even) {
+    background-color: cyan;
+}
